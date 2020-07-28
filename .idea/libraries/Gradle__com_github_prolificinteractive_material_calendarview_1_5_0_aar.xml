@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.prolificinteractive:material-calendarview:1.5.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/material-calendarview-1.5.0.aar/11ec0f47d9c909d71d4ee9413aefd0a6/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/material-calendarview-1.5.0.aar/11ec0f47d9c909d71d4ee9413aefd0a6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/material-calendarview-1.5.0.aar/11ec0f47d9c909d71d4ee9413aefd0a6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.prolificinteractive/material-calendarview/1.5.0/adef885cb6254d1715cb502cfb3fb0199ad9d4c9/material-calendarview-1.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
